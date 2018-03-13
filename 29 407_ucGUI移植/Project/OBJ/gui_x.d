@@ -1,9 +1,0 @@
-.\obj\gui_x.o: ..\ucGUI\GUI_X\GUI_X.c
-.\obj\gui_x.o: ..\ucGUI\Core\GUI.h
-.\obj\gui_x.o: ..\ucGUI\Core\GUI_ConfDefaults.h
-.\obj\gui_x.o: ..\ucGUI\Config\GUIConf.h
-.\obj\gui_x.o: ..\ucGUI\Core\GUIType.h
-.\obj\gui_x.o: ..\ucGUI\Core\LCD.h
-.\obj\gui_x.o: ..\ucGUI\Core\GUIVersion.h
-.\obj\gui_x.o: ..\ucGUI\Core\GUI_X.h
-.\obj\gui_x.o: ..\ucGUI\Core\GUI_X.h
