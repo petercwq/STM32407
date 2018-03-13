@@ -1,0 +1,13 @@
+.\obj\guidemo_memdevb.o: ..\ucGUI\GUIDemo\GUIDEMO_MemDevB.c
+.\obj\guidemo_memdevb.o: ..\ucGUI\Core\GUI.H
+.\obj\guidemo_memdevb.o: ..\ucGUI\Core\GUI_ConfDefaults.h
+.\obj\guidemo_memdevb.o: ..\ucGUI\Config\GUIConf.h
+.\obj\guidemo_memdevb.o: ..\ucGUI\Core\GUIType.h
+.\obj\guidemo_memdevb.o: ..\ucGUI\Core\LCD.h
+.\obj\guidemo_memdevb.o: ..\ucGUI\Core\GUIVersion.h
+.\obj\guidemo_memdevb.o: ..\ucGUI\GUIDemo\GUIDEMO.H
+.\obj\guidemo_memdevb.o: ..\ucGUI\Core\LCD_ConfDefaults.h
+.\obj\guidemo_memdevb.o: ..\ucGUI\Config\LCDConf.h
+.\obj\guidemo_memdevb.o: ..\ucGUI\WM\WM.h
+.\obj\guidemo_memdevb.o: ..\ucGUI\WM\WM_GUI.h
+.\obj\guidemo_memdevb.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdio.h

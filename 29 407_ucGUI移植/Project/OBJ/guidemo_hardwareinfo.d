@@ -1,0 +1,10 @@
+.\obj\guidemo_hardwareinfo.o: ..\ucGUI\GUIDemo\GUIDEMO_HardwareInfo.c
+.\obj\guidemo_hardwareinfo.o: ..\ucGUI\Core\GUI.h
+.\obj\guidemo_hardwareinfo.o: ..\ucGUI\Core\GUI_ConfDefaults.h
+.\obj\guidemo_hardwareinfo.o: ..\ucGUI\Config\GUIConf.h
+.\obj\guidemo_hardwareinfo.o: ..\ucGUI\Core\GUIType.h
+.\obj\guidemo_hardwareinfo.o: ..\ucGUI\Core\LCD.h
+.\obj\guidemo_hardwareinfo.o: ..\ucGUI\Core\GUIVersion.h
+.\obj\guidemo_hardwareinfo.o: ..\ucGUI\GUIDemo\GUIDEMO.h
+.\obj\guidemo_hardwareinfo.o: ..\ucGUI\Core\LCD_ConfDefaults.h
+.\obj\guidemo_hardwareinfo.o: ..\ucGUI\Config\LCDConf.h

@@ -1,0 +1,12 @@
+.\obj\lcd_getex.o: ..\ucGUI\Core\LCD_GetEx.c
+.\obj\lcd_getex.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stddef.h
+.\obj\lcd_getex.o: ..\ucGUI\Core\LCD.h
+.\obj\lcd_getex.o: ..\ucGUI\Core\GUI_ConfDefaults.h
+.\obj\lcd_getex.o: ..\ucGUI\Config\GUIConf.h
+.\obj\lcd_getex.o: ..\ucGUI\Core\LCD_Private.h
+.\obj\lcd_getex.o: ..\ucGUI\Core\LCD_ConfDefaults.h
+.\obj\lcd_getex.o: ..\ucGUI\Config\LCDConf.h
+.\obj\lcd_getex.o: ..\ucGUI\Core\LCD_Protected.h
+.\obj\lcd_getex.o: ..\ucGUI\Core\GUI.h
+.\obj\lcd_getex.o: ..\ucGUI\Core\GUIType.h
+.\obj\lcd_getex.o: ..\ucGUI\Core\GUIVersion.h

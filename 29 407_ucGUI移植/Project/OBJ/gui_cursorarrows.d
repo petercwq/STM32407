@@ -1,0 +1,14 @@
+.\obj\gui_cursorarrows.o: ..\ucGUI\Core\GUI_CursorArrowS.c
+.\obj\gui_cursorarrows.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdlib.h
+.\obj\gui_cursorarrows.o: ..\ucGUI\Core\GUI_Protected.h
+.\obj\gui_cursorarrows.o: ..\ucGUI\Core\GUI.h
+.\obj\gui_cursorarrows.o: ..\ucGUI\Core\GUI_ConfDefaults.h
+.\obj\gui_cursorarrows.o: ..\ucGUI\Config\GUIConf.h
+.\obj\gui_cursorarrows.o: ..\ucGUI\Core\GUIType.h
+.\obj\gui_cursorarrows.o: ..\ucGUI\Core\LCD.h
+.\obj\gui_cursorarrows.o: ..\ucGUI\Core\GUIVersion.h
+.\obj\gui_cursorarrows.o: ..\ucGUI\Core\LCD_Protected.h
+.\obj\gui_cursorarrows.o: ..\ucGUI\Core\GUIDebug.h
+.\obj\gui_cursorarrows.o: ..\ucGUI\Core\GUI_X.h
+.\obj\gui_cursorarrows.o: ..\ucGUI\Core\GUI_X.h
+.\obj\gui_cursorarrows.o: ..\ucGUI\WM\WM_GUI.h

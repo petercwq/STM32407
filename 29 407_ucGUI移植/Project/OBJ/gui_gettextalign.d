@@ -1,0 +1,13 @@
+.\obj\gui_gettextalign.o: ..\ucGUI\Core\GUI_GetTextAlign.c
+.\obj\gui_gettextalign.o: ..\ucGUI\Core\GUI_Protected.h
+.\obj\gui_gettextalign.o: ..\ucGUI\Core\GUI.h
+.\obj\gui_gettextalign.o: ..\ucGUI\Core\GUI_ConfDefaults.h
+.\obj\gui_gettextalign.o: ..\ucGUI\Config\GUIConf.h
+.\obj\gui_gettextalign.o: ..\ucGUI\Core\GUIType.h
+.\obj\gui_gettextalign.o: ..\ucGUI\Core\LCD.h
+.\obj\gui_gettextalign.o: ..\ucGUI\Core\GUIVersion.h
+.\obj\gui_gettextalign.o: ..\ucGUI\Core\LCD_Protected.h
+.\obj\gui_gettextalign.o: ..\ucGUI\Core\GUIDebug.h
+.\obj\gui_gettextalign.o: ..\ucGUI\Core\GUI_X.h
+.\obj\gui_gettextalign.o: ..\ucGUI\Core\GUI_X.h
+.\obj\gui_gettextalign.o: ..\ucGUI\WM\WM_GUI.h

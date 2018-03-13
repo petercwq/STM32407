@@ -1,0 +1,13 @@
+.\obj\gui_setdefault.o: ..\ucGUI\Core\GUI_SetDefault.c
+.\obj\gui_setdefault.o: ..\ucGUI\Core\GUI_Protected.h
+.\obj\gui_setdefault.o: ..\ucGUI\Core\GUI.h
+.\obj\gui_setdefault.o: ..\ucGUI\Core\GUI_ConfDefaults.h
+.\obj\gui_setdefault.o: ..\ucGUI\Config\GUIConf.h
+.\obj\gui_setdefault.o: ..\ucGUI\Core\GUIType.h
+.\obj\gui_setdefault.o: ..\ucGUI\Core\LCD.h
+.\obj\gui_setdefault.o: ..\ucGUI\Core\GUIVersion.h
+.\obj\gui_setdefault.o: ..\ucGUI\Core\LCD_Protected.h
+.\obj\gui_setdefault.o: ..\ucGUI\Core\GUIDebug.h
+.\obj\gui_setdefault.o: ..\ucGUI\Core\GUI_X.h
+.\obj\gui_setdefault.o: ..\ucGUI\Core\GUI_X.h
+.\obj\gui_setdefault.o: ..\ucGUI\WM\WM_GUI.h

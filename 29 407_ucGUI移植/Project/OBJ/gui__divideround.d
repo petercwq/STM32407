@@ -1,0 +1,13 @@
+.\obj\gui__divideround.o: ..\ucGUI\Core\GUI__DivideRound.c
+.\obj\gui__divideround.o: ..\ucGUI\Core\GUI_Protected.h
+.\obj\gui__divideround.o: ..\ucGUI\Core\GUI.h
+.\obj\gui__divideround.o: ..\ucGUI\Core\GUI_ConfDefaults.h
+.\obj\gui__divideround.o: ..\ucGUI\Config\GUIConf.h
+.\obj\gui__divideround.o: ..\ucGUI\Core\GUIType.h
+.\obj\gui__divideround.o: ..\ucGUI\Core\LCD.h
+.\obj\gui__divideround.o: ..\ucGUI\Core\GUIVersion.h
+.\obj\gui__divideround.o: ..\ucGUI\Core\LCD_Protected.h
+.\obj\gui__divideround.o: ..\ucGUI\Core\GUIDebug.h
+.\obj\gui__divideround.o: ..\ucGUI\Core\GUI_X.h
+.\obj\gui__divideround.o: ..\ucGUI\Core\GUI_X.h
+.\obj\gui__divideround.o: ..\ucGUI\WM\WM_GUI.h

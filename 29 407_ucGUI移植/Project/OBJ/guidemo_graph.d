@@ -1,0 +1,12 @@
+.\obj\guidemo_graph.o: ..\ucGUI\GUIDemo\GUIDEMO_Graph.c
+.\obj\guidemo_graph.o: ..\ucGUI\Core\GUI.h
+.\obj\guidemo_graph.o: ..\ucGUI\Core\GUI_ConfDefaults.h
+.\obj\guidemo_graph.o: ..\ucGUI\Config\GUIConf.h
+.\obj\guidemo_graph.o: ..\ucGUI\Core\GUIType.h
+.\obj\guidemo_graph.o: ..\ucGUI\Core\LCD.h
+.\obj\guidemo_graph.o: ..\ucGUI\Core\GUIVersion.h
+.\obj\guidemo_graph.o: ..\ucGUI\Core\LCD_ConfDefaults.h
+.\obj\guidemo_graph.o: ..\ucGUI\Config\LCDConf.h
+.\obj\guidemo_graph.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\math.h
+.\obj\guidemo_graph.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdlib.h
+.\obj\guidemo_graph.o: ..\ucGUI\GUIDemo\GUIDEMO.h

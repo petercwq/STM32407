@@ -1,0 +1,20 @@
+--cpu Cortex-M4.fp
+".\obj\main.o"
+".\obj\stm32f4xx_it.o"
+".\obj\system_stm32f4xx.o"
+".\obj\startup_stm32f40_41xxx.o"
+".\obj\24c02.o"
+".\obj\key.o"
+".\obj\lcd.o"
+".\obj\led.o"
+".\obj\usart1.o"
+".\obj\misc.o"
+".\obj\stm32f4xx_fsmc.o"
+".\obj\stm32f4xx_gpio.o"
+".\obj\stm32f4xx_rcc.o"
+".\obj\stm32f4xx_usart.o"
+".\obj\common.o"
+--strict --scatter ".\OBJ\IIC24c02.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\LIST\IIC24c02.map" -o .\OBJ\IIC24c02.axf
