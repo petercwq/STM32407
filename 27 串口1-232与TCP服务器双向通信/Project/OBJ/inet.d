@@ -1,9 +1,0 @@
-.\obj\inet.o: ..\lwip_v1.3.2\src\core\ipv4\inet.c
-.\obj\inet.o: ..\lwip_v1.3.2\src\include\lwip\opt.h
-.\obj\inet.o: ..\STM32F4x7_ETH_Driver\inc\lwipopts.h
-.\obj\inet.o: ..\lwip_v1.3.2\src\include\lwip\debug.h
-.\obj\inet.o: ..\lwip_v1.3.2\src\include\lwip\arch.h
-.\obj\inet.o: ..\lwip_v1.3.2\port\STM32F4x7\arch\cc.h
-.\obj\inet.o: ..\lwip_v1.3.2\port\STM32F4x7\arch\cpu.h
-.\obj\inet.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdio.h
-.\obj\inet.o: ..\lwip_v1.3.2\src\include\ipv4\lwip\inet.h
