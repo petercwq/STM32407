@@ -1,0 +1,9 @@
+.\obj\dropdown_create.o: ..\ucGUI\Widget\DROPDOWN_Create.c
+.\obj\dropdown_create.o: ..\ucGUI\Widget\DROPDOWN.h
+.\obj\dropdown_create.o: ..\ucGUI\WM\WM.h
+.\obj\dropdown_create.o: ..\ucGUI\Core\GUI_ConfDefaults.h
+.\obj\dropdown_create.o: ..\ucGUI\Config\GUIConf.h
+.\obj\dropdown_create.o: ..\ucGUI\Core\GUIType.h
+.\obj\dropdown_create.o: ..\ucGUI\Core\LCD.h
+.\obj\dropdown_create.o: ..\ucGUI\WM\WM_GUI.h
+.\obj\dropdown_create.o: ..\ucGUI\Widget\DIALOG_Intern.h

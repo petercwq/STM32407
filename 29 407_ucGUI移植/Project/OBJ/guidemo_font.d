@@ -1,0 +1,11 @@
+.\obj\guidemo_font.o: ..\ucGUI\GUIDemo\GUIDEMO_Font.c
+.\obj\guidemo_font.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stddef.h
+.\obj\guidemo_font.o: ..\ucGUI\Core\GUI.H
+.\obj\guidemo_font.o: ..\ucGUI\Core\GUI_ConfDefaults.h
+.\obj\guidemo_font.o: ..\ucGUI\Config\GUIConf.h
+.\obj\guidemo_font.o: ..\ucGUI\Core\GUIType.h
+.\obj\guidemo_font.o: ..\ucGUI\Core\LCD.h
+.\obj\guidemo_font.o: ..\ucGUI\Core\GUIVersion.h
+.\obj\guidemo_font.o: ..\ucGUI\GUIDemo\GUIDEMO.H
+.\obj\guidemo_font.o: ..\ucGUI\Core\LCD_ConfDefaults.h
+.\obj\guidemo_font.o: ..\ucGUI\Config\LCDConf.h

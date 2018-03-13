@@ -1,0 +1,14 @@
+.\obj\guival.o: ..\ucGUI\Core\GUIVal.c
+.\obj\guival.o: ..\ucGUI\Core\GUI_Protected.h
+.\obj\guival.o: ..\ucGUI\Core\GUI.h
+.\obj\guival.o: ..\ucGUI\Core\GUI_ConfDefaults.h
+.\obj\guival.o: ..\ucGUI\Config\GUIConf.h
+.\obj\guival.o: ..\ucGUI\Core\GUIType.h
+.\obj\guival.o: ..\ucGUI\Core\LCD.h
+.\obj\guival.o: ..\ucGUI\Core\GUIVersion.h
+.\obj\guival.o: ..\ucGUI\Core\LCD_Protected.h
+.\obj\guival.o: ..\ucGUI\Core\GUIDebug.h
+.\obj\guival.o: ..\ucGUI\Core\GUI_X.h
+.\obj\guival.o: ..\ucGUI\Core\GUI_X.h
+.\obj\guival.o: ..\ucGUI\WM\WM_GUI.h
+.\obj\guival.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\string.h

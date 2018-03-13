@@ -1,0 +1,17 @@
+.\obj\guiaaarc.o: ..\ucGUI\AntiAlias\GUIAAArc.c
+.\obj\guiaaarc.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdio.h
+.\obj\guiaaarc.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdlib.h
+.\obj\guiaaarc.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\string.h
+.\obj\guiaaarc.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\math.h
+.\obj\guiaaarc.o: ..\ucGUI\Core\GUI_Protected.h
+.\obj\guiaaarc.o: ..\ucGUI\Core\GUI.h
+.\obj\guiaaarc.o: ..\ucGUI\Core\GUI_ConfDefaults.h
+.\obj\guiaaarc.o: ..\ucGUI\Config\GUIConf.h
+.\obj\guiaaarc.o: ..\ucGUI\Core\GUIType.h
+.\obj\guiaaarc.o: ..\ucGUI\Core\LCD.h
+.\obj\guiaaarc.o: ..\ucGUI\Core\GUIVersion.h
+.\obj\guiaaarc.o: ..\ucGUI\Core\LCD_Protected.h
+.\obj\guiaaarc.o: ..\ucGUI\Core\GUIDebug.h
+.\obj\guiaaarc.o: ..\ucGUI\Core\GUI_X.h
+.\obj\guiaaarc.o: ..\ucGUI\Core\GUI_X.h
+.\obj\guiaaarc.o: ..\ucGUI\WM\WM_GUI.h

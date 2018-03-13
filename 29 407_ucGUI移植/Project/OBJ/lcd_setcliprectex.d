@@ -1,0 +1,17 @@
+.\obj\lcd_setcliprectex.o: ..\ucGUI\Core\LCD_SetClipRectEx.c
+.\obj\lcd_setcliprectex.o: ..\ucGUI\Core\LCD_Private.h
+.\obj\lcd_setcliprectex.o: ..\ucGUI\Core\LCD_ConfDefaults.h
+.\obj\lcd_setcliprectex.o: ..\ucGUI\Config\LCDConf.h
+.\obj\lcd_setcliprectex.o: ..\ucGUI\Core\GUI_ConfDefaults.h
+.\obj\lcd_setcliprectex.o: ..\ucGUI\Config\GUIConf.h
+.\obj\lcd_setcliprectex.o: ..\ucGUI\Core\LCD_Protected.h
+.\obj\lcd_setcliprectex.o: ..\ucGUI\Core\LCD.h
+.\obj\lcd_setcliprectex.o: ..\ucGUI\Core\GUI.h
+.\obj\lcd_setcliprectex.o: ..\ucGUI\Core\GUIType.h
+.\obj\lcd_setcliprectex.o: ..\ucGUI\Core\GUIVersion.h
+.\obj\lcd_setcliprectex.o: ..\ucGUI\Core\GUI_Private.h
+.\obj\lcd_setcliprectex.o: ..\ucGUI\Core\GUI_Protected.h
+.\obj\lcd_setcliprectex.o: ..\ucGUI\Core\GUIDebug.h
+.\obj\lcd_setcliprectex.o: ..\ucGUI\Core\GUI_X.h
+.\obj\lcd_setcliprectex.o: ..\ucGUI\Core\GUI_X.h
+.\obj\lcd_setcliprectex.o: ..\ucGUI\WM\WM_GUI.h

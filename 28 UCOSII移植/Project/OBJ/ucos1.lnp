@@ -1,0 +1,26 @@
+--cpu Cortex-M4.fp
+".\obj\main.o"
+".\obj\stm32f4xx_it.o"
+".\obj\startup_stm32f40_41xxx.o"
+".\obj\system_stm32f4xx.o"
+".\obj\led.o"
+".\obj\misc.o"
+".\obj\stm32f4xx_gpio.o"
+".\obj\stm32f4xx_rcc.o"
+".\obj\common.o"
+".\obj\os_core.o"
+".\obj\os_flag.o"
+".\obj\os_mbox.o"
+".\obj\os_mem.o"
+".\obj\os_mutex.o"
+".\obj\os_q.o"
+".\obj\os_sem.o"
+".\obj\os_task.o"
+".\obj\os_time.o"
+".\obj\os_tmr.o"
+".\obj\os_cpu_c.o"
+".\obj\os_cpu_a.o"
+--strict --scatter ".\OBJ\ucos1.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\LIST\ucos1.map" -o .\OBJ\ucos1.axf

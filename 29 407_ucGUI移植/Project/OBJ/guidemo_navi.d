@@ -1,0 +1,17 @@
+.\obj\guidemo_navi.o: ..\ucGUI\GUIDemo\GUIDEMO_Navi.c
+.\obj\guidemo_navi.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\math.h
+.\obj\guidemo_navi.o: ..\ucGUI\Core\GUI.h
+.\obj\guidemo_navi.o: ..\ucGUI\Core\GUI_ConfDefaults.h
+.\obj\guidemo_navi.o: ..\ucGUI\Config\GUIConf.h
+.\obj\guidemo_navi.o: ..\ucGUI\Core\GUIType.h
+.\obj\guidemo_navi.o: ..\ucGUI\Core\LCD.h
+.\obj\guidemo_navi.o: ..\ucGUI\Core\GUIVersion.h
+.\obj\guidemo_navi.o: ..\ucGUI\GUIDemo\GUIDEMO.h
+.\obj\guidemo_navi.o: ..\ucGUI\Core\LCD_ConfDefaults.h
+.\obj\guidemo_navi.o: ..\ucGUI\Config\LCDConf.h
+.\obj\guidemo_navi.o: ..\ucGUI\WM\WM.h
+.\obj\guidemo_navi.o: ..\ucGUI\WM\WM_GUI.h
+.\obj\guidemo_navi.o: ..\ucGUI\Widget\FRAMEWIN.h
+.\obj\guidemo_navi.o: ..\ucGUI\Widget\DIALOG_Intern.h
+.\obj\guidemo_navi.o: ..\ucGUI\GUIDemo\Map.h
+.\obj\guidemo_navi.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdlib.h
